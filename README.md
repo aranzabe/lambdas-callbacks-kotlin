@@ -123,4 +123,3 @@ println(hayB) // true
 *   Evitan la necesidad de declarar funciones temporales con nombre.
 
 * * *
-s://www.chatgptexporter.com)
